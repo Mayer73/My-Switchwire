@@ -1,1 +1,21 @@
-test
+Parâmetros:
+
+
+
+Nome: motor de panqueca NEMA14
+Número de dentes: 10 dentes
+Especificação: 36HS2418CL16
+Ângulo do passo: 108±5%°/STEP
+Dimensões: 51x36x23mm
+Corrente: 1,88A/FASE
+
+
+
+Características:
+
+
+
+Adequado para impressão de proximidade
+Operação silenciosa, apenas 22DB
+Resistência a altas temperaturas e longa vida útil, até 3000 horas de operação
+
